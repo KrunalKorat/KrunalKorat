@@ -558,35 +558,59 @@ Worked on SaaS user interfaces with a focus on responsive design and user-center
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-```yaml
-current_focus:
-  role:
-    - UI/UX Designer
-    - Product Designer
-    - Frontend Developer
+> ### Building beautiful digital products that solve real problems.
 
-  currently_working_on:
-    - Product Design
-    - Responsive Web Applications
-    - Mobile App Experiences
-    - Design Systems
-    - Frontend Development
+<table>
+<tr>
 
-  exploring:
-    - Advanced Figma Workflows
-    - Modern Frontend Frameworks
-    - Accessibility
-    - Design-to-Code Workflows
+<td>
 
-  interests:
-    - SaaS
-    - Fintech
-    - PropTech
-    - Human-Centered Design
-```
+### 🎨 Product Design
 
+Design Systems
+
+User Experience
+
+Mobile Apps
+
+Web Platforms
+
+Accessibility
+
+</td>
+
+<td>
+
+### 💻 Frontend
+
+HTML
+
+CSS
+
+JavaScript
+
+Responsive UI
+
+</td>
+
+<td>
+
+### 🚀 Exploring
+
+Motion Design
+
+Advanced Figma
+
+Interaction Design
+
+Design-to-Code
+
+</td>
+
+</tr>
+</table>
 ---
 
 # 💼 What I Enjoy Building
