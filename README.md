@@ -497,16 +497,22 @@ Worked on SaaS user interfaces with a focus on responsive design and user-center
 
 <!-- END OF PART 2 -->
 <!-- ========================================================= -->
-<!--                  GITHUB ANALYTICS                         -->
+<!--                                          -->
 <!-- ========================================================= -->
 
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrunalKorat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrunalKorat&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrunalKorat&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrunalKorat&theme=tokyonight" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KrunalKorat&theme=tokyonight" />
 
 </p>
 
@@ -526,7 +532,7 @@ Worked on SaaS user interfaces with a focus on responsive design and user-center
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KrunalKorat&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KrunalKorat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -545,8 +551,6 @@ Worked on SaaS user interfaces with a focus on responsive design and user-center
 # 🐍 Contribution Snake
 
 <p align="center">
-
-> After creating the repository workflow, replace the image below with your generated snake SVG.
 
 <img src="https://raw.githubusercontent.com/KrunalKorat/KrunalKorat/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
